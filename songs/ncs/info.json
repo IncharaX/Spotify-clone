@@ -1,4 +1,16 @@
 {
-    "title": "Copyright Songs",
-    "description": "Cover Songs for you"
+  "title": "NCS Hits",
+  "description": "Best non copyright songs",
+  "songs": [
+    { "file": "1.mp3" },
+    { "file": "Chill Night - Ryan.mp3" },
+    { "file": "Dream Vibes - Sophia.mp3" },
+    { "file": "EDM Pulse - Leo.mp3" },
+    { "file": "Golden Hour - Ethan.mp3" },
+    { "file": "Happy Sunshine - John.mp3" },
+    { "file": "Love Melody - Emma.mp3" },
+    { "file": "Motivation Boost - David.mp3" },
+    { "file": "Rock Energy - Max.mp3" },
+    { "file": "Soft Piano - Olivia.mp3" }
+  ]
 }
